@@ -1,4 +1,2 @@
 # adviceapp
-# advice
-# advice
-# adviceapp
+MADE THIS WITH REACTJS AND A API 
